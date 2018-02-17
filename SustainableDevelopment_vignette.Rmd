@@ -1,0 +1,62 @@
+---
+title: 'Sustainable Development: the next economic story'
+author: "Alan Fortuny"
+date: "February 12, 2018"
+output: html_document
+---
+
+
+## La historia del crecimiento economico acaba, y empieza otra
+
+La historia pasada y presente, sigue viviendo del crecimiento economico para su sustento, el sustento de una historia que ha sacado a millones de personas de la pobreza, y genero una clase media, debil, pero existente.
+
+Por primera vez en la historia del hombre, la generacion de riqueza actual va a tener, segun la mayoria de las previsiones, un impacto negativo sobre las generaciones futuras. Esto obliga a plantearse un modelo de desarrollo mas redistributivo en el consumo de recursos entre generaciones.
+
+
+### ?Son los paises ricos los que menos contaminan?Existe una transicion significativa entre riqueza y polucion (en terminos de CO2)?
+
+Existia el optimismo, de que la desigualdad (Kuznets 1955 [1]) y despues la contaminacion (Panayotou 1993 [2]), disminuian a mayores niveles de desarrollo. 
+
+(imagen)
+
+En el 1993 Panayotou [1], testeo con diversas aproximaciones si se cumplia la curva pero no se vio un claro patron de descoplamiento entre PIB y emisiones.
+
+https://www.unece.org/fileadmin/DAM/ead/sem/sem2003/papers/panayotou.pdf
+
+Otros estudios llegan a la misma conclusion (David I.Stern (2004)[3])
+
+DAVID I. STERN
+
+Si miramos los datos de 2014, y hacemos la media de emisiones de CO2 por capita segun el nivel desarrollo del pais, vemos que el patron es mas exponecial positivo que decreciente.
+
+(imagen)
+
+
+Otra forma de ver el problema del desarrollo, desde el punto de vista de emisiones de CO2, es mirar cuantos kgs CO2 es necesario para generar 1$ en PPP de 2011. Los datos mundiales muestran una mejora global de la eficiencia, de 0.47 a 0.34 desde 1990 hasta 2014. Esta mejora esta mas concentrada en los paises mas desarrollados, que mejoraron respecto a los 90' un 20% su eficiencia mediana.
+
+(imagen)
+
+Esta forma, que si muestra una mejorar natural de la eficiencia, por la tecnologia, y el mayor peso del sector servicios y la urbanizacion, no tiene en cuenta la escala, ni que parte de la contaminacion asignada a los paises pobres se genera para satisfacer el consumo de los paises ricos.
+
+
+
+Blibliografia:
+
+[1] Economic growth and income inequality .Simon kuznets. 
+[2] Economic growth and the environment.Theodore Panayotou 
+[3] The Rise and Fall of the Environmental Kuznets Curve. DAVID I. STERN
+[4] Reexamining the Empirical Evidence for an Environmental Kuznets Curve.William T. Harbaugh, Arik Levinson and David Molloy Wilson
+
+
+
+### El informe Meadows : En los 70' ya lo sabiamos...
+
+En el 1972, el MIT realizo este estudio que tenia en cuenta las interacciones entre poblacion, industria, agricultura, contaminacion, disponibilidad de recursos naturales... y bajo las proyecciones de BAU (business as usual) pronosticaron un colapso agricola e industrial, acompanado de un descenso drastico de la poblacion en el 2030. 
+
+Los pronosticos hechos en aquel momento, muestra un gran ajuste de lo que esta sucediendo hasta ahora [6]
+
+
+[6]Is Global Collapse Imminent? An Updated Comparison of The Limits to Growth with Historical Data.Dr Graham M. Turner.
+
+http://sustainable.unimelb.edu.au/sites/default/files/docs/MSSI-ResearchPaper-4_Turner_2014.pdf
+
